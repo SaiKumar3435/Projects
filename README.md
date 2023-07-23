@@ -1,2 +1,1 @@
-LIVE:
-  https://styleecommerce.netlify.app/
+ecommerce website LIVE:  https://styleecommerce.netlify.app/
