@@ -1,1 +1,1 @@
-ecommerce website LIVE:  https://styleecommerce.netlify.app/
+responsive_EcommerceLIVE:  https://styleecommerce.netlify.app/
